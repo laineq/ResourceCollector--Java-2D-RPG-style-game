@@ -1,5 +1,8 @@
 # Resource Run 
 
+## Video Tutorial
+To see a video demo, please check: https://youtu.be/jF5Epvs29X0
+
 ## How to Build, Run, and Test Resource Run
 Prerequisite: Apache Maven 3.8.4 and java 17.0.2 must be installed.
 
@@ -30,5 +33,3 @@ In a terminal:
     - This will run the game.
 
 ***
-
-Video Tutorial: https://youtu.be/jF5Epvs29X0
